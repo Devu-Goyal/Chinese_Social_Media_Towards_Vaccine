@@ -2,9 +2,10 @@
 
 Our project for ML by group 17
 
-Lakshit Somani,
-Divyansh Goyal
-Vasu Mundra,
+
+Lakshit Somani<br/>
+Divyansh Goyal<br/>
+Vasu Mundra
 
 ## Instructions on how to run the code
 - Open the ipynb file.
